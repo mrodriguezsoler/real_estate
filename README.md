@@ -77,7 +77,7 @@ El paquete ha sido desarrollado en un entorno virtual usando la siguiente versi�
 Para instalar correctamente el paquete **real_estate**, será necesario abrir una terminal de comandos y navegar hasta la dirección donde se haya guardado la carpeta del proyecto.  
 
 ```bash
-cd path_to_estate/real_estate
+cd path_to_real_estate/real_estate
 ```
 
 A continuación, es necesario crear y activar un entorno virtual para poder instalar todas las dependencias del paquete.
